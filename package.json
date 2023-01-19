@@ -1,0 +1,24 @@
+{
+  "name": "cmsfnb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudikp/cmsFnB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudikp/cmsFnB/issues"
+  },
+  "homepage": "https://github.com/rudikp/cmsFnB#readme",
+  "dependencies": {
+    "chromedriver": "^109.0.0",
+    "jest": "^29.3.1",
+    "selenium-webdriver": "^4.7.1"
+  }
+}
